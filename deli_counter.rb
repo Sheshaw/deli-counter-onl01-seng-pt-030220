@@ -2,7 +2,7 @@ katz_deli = []
 
 def line(array)
   counter = 0
-  if |element| counter == 1
+  if array |element|
     puts "The line is currently: #{counter). #{element}"
     
   else
